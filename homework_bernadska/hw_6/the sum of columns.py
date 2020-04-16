@@ -1,5 +1,5 @@
-list_1 = [1, 5, 7]
-list_2 = [5, 6, 3]
+list_1 = [15, 56, 17]
+list_2 = [25, 8, 23]
 sum_list =[]
 for i in range(0,len(list_1)):
     if len(list_1) != len(list_2):
